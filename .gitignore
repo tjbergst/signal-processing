@@ -1,0 +1,15 @@
+# checkpoints
+.ipynb_checkpoints/
+
+# dsstore
+.DS_Store
+
+# dev
+dev/
+
+# altair json
+altair-*.json
+
+# pycache
+__pycache__/
+*.pyc
